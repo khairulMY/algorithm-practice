@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+env/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+
+# Data files (keep raw files local)
+data/*.csv
+data/*.parquet
