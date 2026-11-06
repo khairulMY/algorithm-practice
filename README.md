@@ -6,7 +6,7 @@ My solutions to algorithm and data structure problems, organized by topic. The g
 
 | Topic | Solved | Notes |
 |---|---|---|
-| Arrays & Hashing | 0 | |
+| Arrays & Hashing | 1 | |
 | Two Pointers | 0 | |
 | Sliding Window | 0 | |
 | Stack & Queue | 0 | |
